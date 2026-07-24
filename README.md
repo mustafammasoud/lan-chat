@@ -72,7 +72,7 @@ lan-chat/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/lan-chat.git
+git clone https://github.com/mustafammasoud/lan-chat.git
 cd lan-chat
 ```
 
